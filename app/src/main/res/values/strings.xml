@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Fucking Weather</string>
+
+    <string name="locationSearch">zip=73134,us</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location_and_settings">LocationAndSettings</string>
+</resources>

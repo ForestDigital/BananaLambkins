@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nice">
+        <item>Damn, I\'ve got nothing</item>
+        <item>Hating everything is so hard when the weather is so damn nice</item>
+    </string-array>
+
+
+    <string-array name="rain">
+        <item>The best day to soak pedestrians with your car</item>
+        <item>I hope you forgot to replace your windshield wipers</item>
+    </string-array>
+
+    <string-array name="snow">
+        <item>Need For Speed: Snow Drift</item>
+        <item>Not sure whats worse. The roads or your driving</item>
+        <item>God ran out of anti-dandruff shampoo</item>
+    </string-array>
+
+    <string-array name="overcast">
+        <item>News 9 reports that basement dwellers everywhere are rejoicing</item>
+        <item>Solar panels are for assholes anyway</item>
+        <item>So much for that years supply of suntan lotion</item>
+    </string-array>
+
+    <string-array name="storms">
+        <item>International \'Play with lightning rod\' Day</item>
+        <item>Flash Floods: They\'re like flash mobs, but with dangerous bodies of water</item>
+        <item>I can\'t tell if thats thunder or your mother finally getting out of bed</item>
+    </string-array>
+
+    <string-array name="cold">
+        <item>Great day to swim in the pool</item>
+        <item>I hope you like cold pizza on delivery</item>
+        <item>Even when hell freezes over, it\'ll still be warmer there</item>
+        <item>You could probably break into a car with your nipples today</item>
+    </string-array>
+
+    <string-array name="hot">
+        <item>Hotter than the asshole of a dying star</item>
+        <item>Go to hell! …Seriously, it\'s not as hot there</item>
+        <item>Fry an egg on the sidewalk for that extra gravelly taste</item>
+    </string-array>
+
+    <string-array name="fog">
+        <item>Sport of the day: Street Hockey</item>
+        <item>A good day for speeding to work</item>
+        <item>Can\'t see shit captain</item>
+    </string-array>
+</resources>
