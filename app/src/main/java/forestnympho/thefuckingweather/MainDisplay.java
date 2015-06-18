@@ -10,8 +10,8 @@ package forestnympho.thefuckingweather;
 //          10% of pulls are server fails
 //      The method for getting the drawables is depricated
 //      Some phone compatibility errors
-//      MP and eventually app crashes if you spam the refresh button
-//          seems like there might be some memory leakage
+//      MP and eventually app crashes if you spam the refresh button /FIXED
+//          seems like there might be some memory leakage /FIXED
 //
 //  TODO: Add activity for user input so users can add witty remarks
 //  TODO:   and send it as a message via email to me
